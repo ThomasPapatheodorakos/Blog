@@ -11,4 +11,4 @@ more text
 swqs
 
 # Updated
-[Research 1](/pages/research1.md)
+[Research 1](docs/pages/research1.md)

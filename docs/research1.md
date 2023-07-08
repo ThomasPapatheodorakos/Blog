@@ -1,8 +1,5 @@
 - - -
-
-title: Research 1
-filename: research1.md
-
+title: Research
 - - -
 
 # Research 1
